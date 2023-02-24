@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "namaclub": "Arsenal",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_48x48.png",
+        "bermain": "23",
+        "menang": "17",
+        "seri": "3",
+        "kalah": "4",
+        "point": "54"
+    },
+    {
+        "id": 2,
+        "namaclub": "Manchester City",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_48x48.png",
+        "bermain": "24",
+        "menang": "16",
+        "seri": "4",
+        "kalah": "4",
+        "point": "60"
+    }
+    ,
+    {
+        "id": 3,
+        "namaclub": "Manchester United",
+        "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_48x48.png",
+        "bermain": "24",
+        "menang": "16",
+        "seri": "4",
+        "kalah": "4",
+        "point": "49"
+    }
+]
